@@ -1,0 +1,29 @@
+{
+  "name": "superhuman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/satyabrata237/superhuman.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/satyabrata237/superhuman/issues"
+  },
+  "homepage": "https://github.com/satyabrata237/superhuman#readme",
+  "dependencies": {
+    "-": "^0.0.1",
+    "bootstrap": "^5.2.3",
+    "bootstrap-icons": "^1.10.3",
+    "jquery": "^3.6.3"
+  }
+}
